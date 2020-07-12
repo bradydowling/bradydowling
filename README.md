@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#### Read Write Exercise
+[YouTube Channel](https://www.youtube.com/channel/UCPGv2tVqEt6iBFnnMTjnRBA)
+[Blog/Website](readwriteexercise.com/)
+
 <!--
 **bradydowling/bradydowling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
