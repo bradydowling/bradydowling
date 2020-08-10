@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 #### Read Write Exercise
-- [YouTube Channel](https://www.youtube.com/channel/UCPGv2tVqEt6iBFnnMTjnRBA)
-- [Blog/Website](readwriteexercise.com/)
+- [YouTube Channel](https://www.youtube.com/channel/ReadWriteExercise)
+- [Blog/Website](https://readwriteexercise.com/)
 
 **Languages:**  
 
