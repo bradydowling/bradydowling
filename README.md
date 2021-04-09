@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### Read Write Exercise
-- [YouTube Channel](https://www.youtube.com/channel/ReadWriteExercise)
+- [YouTube Channel](https://www.youtube.com/c/ReadWriteExercise) (looking to collaborate on interesting videos/projects (dataviz, multimedia, games, etc))
 - [Blog/Website](https://readwriteexercise.com/)
 
 **Languages:**  
